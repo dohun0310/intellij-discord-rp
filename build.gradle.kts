@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.github.vyfor:kpresence:0.5.3")
+    implementation("com.github.vyfor:KPresence:v0.6.1")
 }
 
 kotlin {
